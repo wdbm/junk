@@ -12,7 +12,7 @@ def main():
 
     setuptools.setup(
         name             = "supermodule",
-        version          = "2015.10.30.1609",
+        version          = "2015.10.30.1611",
         description      = "super utilities",
         long_description = (read("README.md")),
         url              = "https://github.com/wdbm/junk",
