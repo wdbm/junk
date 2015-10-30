@@ -3,6 +3,7 @@
 
 import os
 import setuptools
+import pypandoc
 
 def read(*paths):
     with open(os.path.join(*paths), "r") as filename:
@@ -12,9 +13,10 @@ def main():
 
     setuptools.setup(
         name             = "supermodule",
-        version          = "2015.10.30.1611",
+        version          = "2015.10.30.1618",
         description      = "super utilities",
-        long_description = (read("README.md")),
+        #long_description = (read("README.md")),
+        long_description = pypandoc.convert("README.md", "rst")
         url              = "https://github.com/wdbm/junk",
         author           = "John Drake",
         author_email     = "j.drake@sern.ch",
