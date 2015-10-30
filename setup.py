@@ -13,7 +13,7 @@ def main():
 
     setuptools.setup(
         name             = "supermodule",
-        version          = "2015.10.30.1618",
+        version          = "2015.10.30.1621",
         description      = "super utilities",
         #long_description = (read("README.md")),
         long_description = pypandoc.convert("README.md", "rst"),
