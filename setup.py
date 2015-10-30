@@ -12,21 +12,14 @@ def main():
 
     setuptools.setup(
         name             = "supermodule",
-        version          = "2015.10.30.0820",
+        version          = "2015.10.30.0902",
         description      = "super utilities",
         long_description = (read("README.rst")),
         url              = "https://github.com/wdbm/junk",
         author           = "John Drake",
         author_email     = "j.drake@sern.ch",
-        license         = "GPLv3",
-        package_data     = {
-            "": [
-                "*.txt",
-                "*.md",
-                "*.rst",
-                "*.py"
-            ]
-        }
+        license          = "GPLv3",
+        packages         = ["supermodule"]
     )
 
 if __name__ == "__main__":
