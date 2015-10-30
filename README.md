@@ -15,6 +15,26 @@ This is a table:
 |20     |30     |
 |50     |40     |
 
+This is another table:
+
+|**time representation**|**comment**|
+|---|---|
+|YYYY-MM-DDTHHMMSSZ|filename safe (default)|
+|YYYY-MM-DDTHHMMSSMMMMMMZ|microseconds|
+|YYYY-MM-DD HH:MM:SS UTC|elegant|
+|UNIX time S.SSSSSS|UNIX time in seconds with second fraction|
+|UNIX time S|UNIX time in seconds rounded|
+
+This is another table:
+
+|**time representation** |**comment**                              |
+|------------------------|-----------------------------------------|
+|YYYY-MM-DDTHHMMSSZ      |filename safe (default)                  |
+|YYYY-MM-DDTHHMMSSMMMMMMZ|microseconds                             |
+|YYYY-MM-DD HH:MM:SS UTC |elegant                                  |
+|UNIX time S.SSSSSS      |UNIX time in seconds with second fraction|
+|UNIX time S             |UNIX time in seconds rounded             |
+
 Nulla ac bibendum turpis. Nulla eu lacus sit amet purus rhoncus porta. Phasellus feugiat libero id magna tempus sagittis. Phasellus est ante, gravida a eros sit amet, rhoncus accumsan nulla. Mauris metus velit, laoreet at ligula a, porttitor ullamcorper lectus. Mauris purus mauris, varius ac est in, varius convallis mi. Pellentesque sollicitudin eleifend metus, et sollicitudin enim condimentum id. Nullam dapibus, orci quis tempor volutpat, felis odio scelerisque eros, non aliquet purus lacus bibendum urna. Etiam lacinia a nibh vel consequat. Vivamus vel sem mattis, sollicitudin erat eget, faucibus tellus. Suspendisse a consectetur lectus, ac interdum nunc.
 
 This is some code:
