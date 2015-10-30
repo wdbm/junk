@@ -16,7 +16,7 @@ def main():
         version          = "2015.10.30.1618",
         description      = "super utilities",
         #long_description = (read("README.md")),
-        long_description = pypandoc.convert("README.md", "rst")
+        long_description = pypandoc.convert("README.md", "rst"),
         url              = "https://github.com/wdbm/junk",
         author           = "John Drake",
         author_email     = "j.drake@sern.ch",
