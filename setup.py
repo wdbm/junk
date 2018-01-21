@@ -13,7 +13,7 @@ def main():
 
     setuptools.setup(
         name             = "supermodule",
-        version          = "2017.11.28.1625",
+        version          = "2018.01.21.0022",
         description      = "super utilities",
         #long_description = (read("README.md")),
         long_description = pypandoc.convert("README.md", "rst"),
@@ -22,8 +22,7 @@ def main():
         author_email     = "j.drake@sern.ch",
         license          = "GPLv3",
         py_modules       = [
-                           "supermodule",
-                           "superdupermodule"
+                           "supermodule"
                            ],
         entry_points     = """
                            [console_scripts]
