@@ -11,5 +11,5 @@ import re
 import collections
 import math
 
-def helloworld():
+def main():
     print("hello world")
