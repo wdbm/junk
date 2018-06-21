@@ -22,7 +22,7 @@ def main():
                            "console_scripts": ("supermodule = supermodule.__init__:main")
                            },
     scripts              = [
-                           "examples_1.py"
+                           "supermodule/examples_1.py"
                            ],
     include_package_data = True,
     zip_safe             = False
