@@ -81,14 +81,14 @@ Throughout this documentation, "keyboard"-style boxed characters represent micro
 |-------------------------|--------------------------------------|
 |<kbd>CHS</kbd>           |<kbd>/-/</kbd>                        |
 |<kbd>EE</kbd>            |<kbd>Бл</kbd>                         |
-|<kbd>enter</kbd>         |<kbd>\cyr B↑<kbd>          |
-|<kbd>Addr</kb>           |<kbd>\cyr A${\uparrow}$</kbd>         |
-|<kbd>R/W</kbd>           |<kbd>\cyr ${\uparrow\downarrow}$</kbd>|
-|<kbd>R/S</kbd>           |<kbd>\cyr S/p</kbd>                   
+|<kbd>enter</kbd>         |<kbd>B↑<kbd>                          |
+|<kbd>Addr</kb>           |<kbd>A↑</kbd>                         |
+|<kbd>R/W</kbd>           |<kbd>↑↓</kbd>                         |
+|<kbd>R/S</kbd>           |<kbd>C/л</kbd>                        |
 
 |-------------------------|--------------------------------------|
 |**switch notation**      |**switch appearance**                 |
 |-------------------------|--------------------------------------|
-|clear/read/write         |<kbd>\cyr S/\Z/SCH</kbd>              |
-|degrees/gradiants/radians|<kbd>\cyr R/GRD/G</kbd>               |
-|data/programming         |<kbd>\cyr D/P</kbd>                   |
+|clear/read/write         |<kbd>C/З/CЧ</kbd>                     |
+|degrees/gradiants/radians|<kbd>Р/ГРД/Г</kbd>                    |
+|data/programming         |<kbd>Д/P</kbd>                        |
