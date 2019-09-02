@@ -49,4 +49,4 @@ Sed maximus diam a enim tempor, vehicula varius nulla ornare. Fusce ultricies co
 
 <video src="https://github.com/wdbm/junk/blob/master/2017-03-14T2357Z.mp4" width="320" height="200" controls preload></video>
 
-In programming mode, the screen displays information about the program in memory. For example, if \texttt{10 01 0E 03} is displayed, then this means that `0E' is stored at program step `00', `01' is stored at program step `01', `10' is stored at program step `02' and the MK-52 is prompting for data to be input for program step `03'. Individual program operations are represented by two-digit operation codes in programming mode.
+In programming mode, the screen displays information about the program in memory. For example, if `10 01 0E 03` is displayed, then this means that `0E' is stored at program step `00', `01' is stored at program step `01', `10' is stored at program step `02' and the MK-52 is prompting for data to be input for program step `03'. Individual program operations are represented by two-digit operation codes in programming mode.
