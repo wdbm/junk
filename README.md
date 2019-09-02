@@ -49,45 +49,4 @@ Sed maximus diam a enim tempor, vehicula varius nulla ornare. Fusce ultricies co
 
 <video src="https://github.com/wdbm/junk/blob/master/2017-03-14T2357Z.mp4" width="320" height="200" controls preload></video>
 
-# keys
-
-<kbd>shift</kbd> + <kbd>command</kbd> + <kbd>3</kbd>
-
-|**characteristic**         |**details**                                        |
-|---------------------------|---------------------------------------------------|
-|type                       |scientific                                         |
-|precision                  |8 BCD digits, exponent ±99                         |
-|input mode                 |Reverse Polish Notation                            |
-|production                 |Kiev, 1983--1991-11                                |
-|price                      |115₽                                                                                      |
-|volatile memory capacity   |105                                                |
-|nonvolatile memory capacity|512 kb                                             |
-|nonvolatile memory type    |EEPROM                                             |
-|clock speed                |455 kHz ceramic resonator                          |
-|ROM memory modules' type   |fabric                                             |
-|size                       |212 mm * 78 mm * 35 mm                             |
-|weight                     |250 g                                              |
-|display size               |8 digit manissa, two digit exponent, separate signs|
-|display type               |green vacuum fluorescent                           |
-|power supply unit          |D2-37                                              |
-
-# Notation
-
-Throughout this documentation, "keyboard"-style boxed characters represent microcalculator keys. For example, <kbd>+</kbd> represents the addition key.
-
-## Some key notations
-
-|**key notation**         |**key appearance**                    |
-|-------------------------|--------------------------------------|
-|<kbd>CHS</kbd>           |<kbd>/-/</kbd>                        |
-|<kbd>EE</kbd>            |<kbd>Бл</kbd>                         |
-|<kbd>enter</kbd>         |<kbd>B↑</kbd>                         |
-|<kbd>Addr</kb>           |<kbd>A↑</kbd>                         |
-|<kbd>R/W</kbd>           |<kbd>↑↓</kbd>                         |
-|<kbd>R/S</kbd>           |<kbd>C/л</kbd>                        |
-
-|**switch notation**      |**switch appearance**                 |
-|-------------------------|--------------------------------------|
-|clear/read/write         |<kbd>C/З/CЧ</kbd>                     |
-|degrees/gradiants/radians|<kbd>Р/ГРД/Г</kbd>                    |
-|data/programming         |<kbd>Д/P</kbd>                        |
+In programming mode, the screen displays information about the program in memory. For example, if \texttt{10 01 0E 03} is displayed, then this means that `0E' is stored at program step `00', `01' is stored at program step `01', `10' is stored at program step `02' and the MK-52 is prompting for data to be input for program step `03'. Individual program operations are represented by two-digit operation codes in programming mode.
