@@ -80,7 +80,7 @@ Throughout this documentation, "keyboard"-style boxed characters represent micro
 |**key notation**         |**key appearance**                    |
 |-------------------------|--------------------------------------|
 |<kbd>CHS</kbd>           |<kbd>/-/</kbd>                        |
-|<kbd>EE</kbd>            |<kbd>БП</kbd>                         |
+|<kbd>EE</kbd>            |<kbd>Бл</kbd>                         |
 |<kbd>enter</kbd>         |<kbd>\cyr B${\uparrow}$<kbd>          |
 |<kbd>Addr</kb>           |<kbd>\cyr A${\uparrow}$</kbd>         |
 |<kbd>R/W</kbd>           |<kbd>\cyr ${\uparrow\downarrow}$</kbd>|
