@@ -81,10 +81,11 @@ Throughout this documentation, "keyboard"-style boxed characters represent micro
 |-------------------------|--------------------------------------|
 |<kbd>CHS</kbd>           |<kbd>/-/</kbd>                        |
 |<kbd>EE</kbd>            |<kbd>Бл</kbd>                         |
-|<kbd>enter</kbd>         |<kbd>\cyr B${\uparrow}$<kbd>          |
+|<kbd>enter</kbd>         |<kbd>\cyr B↑<kbd>          |
 |<kbd>Addr</kb>           |<kbd>\cyr A${\uparrow}$</kbd>         |
 |<kbd>R/W</kbd>           |<kbd>\cyr ${\uparrow\downarrow}$</kbd>|
-|<kbd>R/S</kbd>           |<kbd>\cyr S/p</kbd>                   |
+|<kbd>R/S</kbd>           |<kbd>\cyr S/p</kbd>                   
+
 |-------------------------|--------------------------------------|
 |**switch notation**      |**switch appearance**                 |
 |-------------------------|--------------------------------------|
