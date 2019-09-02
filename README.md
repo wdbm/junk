@@ -48,3 +48,7 @@ Sed maximus diam a enim tempor, vehicula varius nulla ornare. Fusce ultricies co
 # video test
 
 <video src="https://github.com/wdbm/junk/blob/master/2017-03-14T2357Z.mp4" width="320" height="200" controls preload></video>
+
+# keys
+
+<kbd>shift</kbd> + <kbd>command</kbd> + <kbd>3</kbd>
