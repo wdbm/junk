@@ -52,3 +52,42 @@ Sed maximus diam a enim tempor, vehicula varius nulla ornare. Fusce ultricies co
 # keys
 
 <kbd>shift</kbd> + <kbd>command</kbd> + <kbd>3</kbd>
+
+|**characteristic**         |**details**                                        |
+|---------------------------|---------------------------------------------------|
+|type                       |scientific                                         |
+|precision                  |8 BCD digits, exponent ±99                         |
+|input mode                 |Reverse Polish Notation                            |
+|production                 |Kiev, 1983--1991-11                                |
+|price                      |115₽                                                                                              |
+|volatile memory capacity   |105                                                |
+|nonvolatile memory capacity|512 kb                                             |
+|nonvolatile memory type    |EEPROM                                             |
+|clock speed                |455 kHz ceramic resonator                          |
+|ROM memory modules' type   |fabric                                             |
+|size                       |212 mm * 78 mm * 35 mm                             |
+|weight                     |250 g                                              |
+|display size               |8 digit manissa, two digit exponent, separate signs|
+|display type               |green vacuum fluorescent                           |
+|power supply unit          |D2-37                                              |
+
+# Notation
+
+Throughout this documentation, "keyboard"-style boxed characters represent microcalculator keys. For example, <kbd>+</kbd> represents the addition key.
+
+## Some key notations
+
+|**key notation**         |**key appearance**                    |
+|-------------------------|--------------------------------------|
+|<kbd>CHS</kbd>           |<kbd>/-/</kbd>                        |
+|<kbd>EE</kbd>            |<kbd>\cyr Bp</kbd>                    |
+|<kbd>enter</kbd>         |<kbd>\cyr B${\uparrow}$<kbd>          |
+|<kbd>Addr</kb>           |<kbd>\cyr A${\uparrow}$</kbd>         |
+|<kbd>R/W</kbd>           |<kbd>\cyr ${\uparrow\downarrow}$</kbd>|
+|<kbd>R/S</kbd>           |<kbd>\cyr S/p</kbd>                   |
+|-------------------------|--------------------------------------|
+|**switch notation**      |**switch appearance**                 |
+|-------------------------|--------------------------------------|
+|clear/read/write         |<kbd>\cyr S/\Z/SCH</kbd>              |
+|degrees/gradiants/radians|<kbd>\cyr R/GRD/G</kbd>               |
+|data/programming         |<kbd>\cyr D/P</kbd>                   |
