@@ -59,7 +59,7 @@ Sed maximus diam a enim tempor, vehicula varius nulla ornare. Fusce ultricies co
 |precision                  |8 BCD digits, exponent ±99                         |
 |input mode                 |Reverse Polish Notation                            |
 |production                 |Kiev, 1983--1991-11                                |
-|price                      |115₽                                                                                              |
+|price                      |115₽                                                                                      |
 |volatile memory capacity   |105                                                |
 |nonvolatile memory capacity|512 kb                                             |
 |nonvolatile memory type    |EEPROM                                             |
@@ -80,7 +80,7 @@ Throughout this documentation, "keyboard"-style boxed characters represent micro
 |**key notation**         |**key appearance**                    |
 |-------------------------|--------------------------------------|
 |<kbd>CHS</kbd>           |<kbd>/-/</kbd>                        |
-|<kbd>EE</kbd>            |<kbd>\cyr Bp</kbd>                    |
+|<kbd>EE</kbd>            |<kbd>БП</kbd>                         |
 |<kbd>enter</kbd>         |<kbd>\cyr B${\uparrow}$<kbd>          |
 |<kbd>Addr</kb>           |<kbd>\cyr A${\uparrow}$</kbd>         |
 |<kbd>R/W</kbd>           |<kbd>\cyr ${\uparrow\downarrow}$</kbd>|
